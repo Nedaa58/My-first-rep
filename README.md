@@ -1,5 +1,5 @@
 # My-first-rep
-My first repository
+My first repositor
 REPO_NAME/
 ├─ .github/
 │  ├─ ISSUE_TEMPLATE/
