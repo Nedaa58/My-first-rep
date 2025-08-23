@@ -2,7 +2,7 @@
 My first repositor
 REPO_NAME/
 ├─ .github/
-│  ├─ ISSUE_TEMPLATE/
+│  ├─ ISSUE_TEMPLATE
 │  │  ├─ bug_report.md
 │  │  └─ feature_request.md
 │  ├─ workflows/
