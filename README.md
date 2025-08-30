@@ -1,6 +1,6 @@
 # My-first-rep
 My first repository
-REPO_NAME/
+REPO_NAME/..
 ├─ .github/
 │  ├─ ISSUE_TEMPLATE
 │  │  ├─ bug_report.md
